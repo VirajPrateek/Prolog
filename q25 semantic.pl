@@ -1,0 +1,1 @@
+# Write a prolog program that implements Semantic Networks (ATN/RTN).
